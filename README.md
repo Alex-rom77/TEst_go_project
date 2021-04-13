@@ -1,10 +1,12 @@
 # Typer
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e93a79d668704eed9fdbe2a197d1c751)](https://www.codacy.com/gh/Alex-rom77/TEst_go_project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Alex-rom77/TEst_go_project&amp;utm_campaign=Badge_Grade)
+
 Typing test in your terminal
 
 ![Typer Banner](../assets/banner.png)
 
-### Installation
+## Installation
 ```
 go get github.com/maaslalani/typer/cmd/typer
 ```
